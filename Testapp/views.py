@@ -1,11 +1,7 @@
 from django.shortcuts import get_object_or_404, render_to_response
 from Testapp.models import Category, Product
 from django.template import RequestContext
-from django.core.context_processors import csrf
-from django.core import urlresolvers
-from cart import thecart
-from django.http import HttpResponseRedirect
-from forms import ProductAddToCartForm
+
 
 
 def index(request, template_name="Testapp/index.html"):
