@@ -13,7 +13,7 @@ urlpatterns = patterns('',
                        url(r'^', include('Testapp.urls')),
                        url(r'^static/(?P<path>.*)$', 'django.views.static.serve',
                            {'document_root': '/home/Documents/projecttest/Testapp/static'}),
-                       # url(r'^cart/', include('cart.urls')),
+                       # url(r'^cart/', include('thecart.urls')),
                        )
 
 

@@ -17,6 +17,9 @@ import os
 
 CURRENT_PATH = os.path.abspath(os.path.dirname(__file__).decode('utf-8'))
 
+
+
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
@@ -43,7 +46,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'Testapp',
     'utils',
-    
+    'thecart',
 
 )
 
@@ -106,6 +109,12 @@ TEMPLATES = [
     },
 ]
 #
+TEMPLATE_LOADERS = (
+    'django.template.loaders.filesystem.Loader',
+    'django.template.loaders.app_directories.Loader',
+    #     'django.template.loaders.eggs.Loader',
+)
+
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'

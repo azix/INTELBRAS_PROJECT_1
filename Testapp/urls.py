@@ -1,5 +1,5 @@
 # from django.conf.urls import patterns, url
-from django.conf.urls import patterns, url
+from django.conf.urls import patterns, include, url
 # from django.conf.urls.defaults import *
 
 
@@ -10,4 +10,5 @@ urlpatterns = patterns('Testapp.views',
                        url(r'^product/(?P<product_slug>[-\w]+)/$',
                            'show_product', {
                                'template_name': 'Testapp/product.html'}, 'Testapp_product'),
+                       # url(r'^cart/', include('thecart.urls')),
                        )
