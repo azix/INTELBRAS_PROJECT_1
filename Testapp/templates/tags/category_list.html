@@ -1,4 +1,23 @@
- <div class="row">
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+
+
+    $("#").load("{{ c.get_absolute_url }}");
+
+
+});
+</script>
+
+</head>
+
+<body>
+
+
+
+<div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">
                 Welcome to Modern Business
@@ -12,15 +31,15 @@
                     </h4>
                 </div>
              <div class="panel-body">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla
-                aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet
-                incidunt dicta nostrum quod?</p>
+              <p>{{ c.description }} </p>
 
-              <a href="{{ c.get_absolute_url }}" class="btn btn-default">Learn More</a>
+              <a   href="{{ c.get_absolute_url }}"  class="btn btn-default"  >Learn More</a>
+
+<!--<button type="button" onclick="loadDoc()">Change Content   href="{{ c.get_absolute_url }}"  </button>-->
              </div>
             </div>
         </div>
          {% endfor %}
  </div>
 
-
+</body>
