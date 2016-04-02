@@ -2,96 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4f4db03-5f93-4b7b-ac2e-5221c1e15c08" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/bootstrap-3.3.6-dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/bin/contact_me.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/blog-home-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/blog-home-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/blog-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/css/modern-business.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/full-width.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/js/contact_me.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/js/jqBootstrapValidation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/portfolio-1-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/portfolio-2-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/portfolio-3-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/portfolio-4-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/portfolio-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/static/startbootstrap-modern-business-1.0.5/sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testapp/templates/Testapp.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/static/Testapp/style.css" afterPath="$PROJECT_DIR$/Testapp/static/Testapp/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/static/css.css" afterPath="$PROJECT_DIR$/Testapp/static/css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/templates/Testapp/category.html" afterPath="$PROJECT_DIR$/Testapp/templates/Testapp/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/templates/Testapp/product.html" afterPath="$PROJECT_DIR$/Testapp/templates/Testapp/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/templates/base.html" afterPath="$PROJECT_DIR$/Testapp/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testapp/templates/tags/category_list.html" afterPath="$PROJECT_DIR$/Testapp/templates/tags/category_list.html" />
     </list>
     <ignored path="projecttest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -644,7 +555,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1368" height="749" extended-state="6" />
+    <frame x="-1" y="-1" width="1368" height="749" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25183016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
