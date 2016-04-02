@@ -1,3 +1,4 @@
+{% load staticfiles %}
 
 <link rel="Stylesheet" type="text/css" href="{{ MEDIA_URL }}css.css" />
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -9,8 +10,12 @@
         {{ site_name }}{% endblock %}</title>
     <meta name="keywords" content="{{ meta_keywords }}"/>
     <meta name="description" content="{{ meta_description }}"/>
-</head>
+
 <body>
+
 {% block site_wrapper %}{% endblock %}
+
+
+
 </body>
 </html>

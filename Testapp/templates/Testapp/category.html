@@ -1,39 +1,72 @@
-{% extends "Testapp.html" %}
+<!DOCTYPE html>
+
+{% extends 'Testapp.html' %}
+
+{% load staticfiles %}
 {% block content %}
 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+     $(document).ready(function() {
+    $('#houwa').mouseenter(function() {
+        $('#houwa').fadeOut('slow');
+    });
+});
+  </script>
 
 
-<body>
+<div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>{{ c.name }}</h1>
+                        <p>{{ c.description }}</p>
+
+                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 <div class="container">
+	<div class="row">
+        {% for p in products %}
+		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+			<div class="offer offer-success">
+				<div class="shape">
+					<div class="shape-text">
+						top
+					</div>
+				</div>
+				<div class="offer-content">
+					<h3 class="lead">
+						{{ p.name }}
+					</h3>
+					<p>
+						<a href="{{ p.get_absolute_url }}">
+                            <img src="{{ MEDIA_URL }}thumbnails/{{ p.image }}" alt="{{ p.name }}" /><br />
 
-        <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header"> Welcome to our List of products
-                    <small>Subheading</small>
-                </h1>
-                <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
-                    </li>
-                    <li class="active"> Welcome to our List of {{c.name}}</li>
-                </ol>
-            </div>
-        </div>
-        <!-- /.row -->
+                            </a>
+					</p>
+				</div>
+			</div>
 
-        <div class="row">
-              {% for p in products %}
-            <div class="col-md-3 img-portfolio">
-               <a href="{{ p.get_absolute_url }}" ><img src="{{ MEDIA_URL }}/images/{{ p.image}}" alt="{{ p.name }}" class="bn" />
-                    <br/>
-                {{ p.name }}
-                </a>
-            </div>
-             {% endfor %}
-        </div>
+		</div>
 
- {% endblock %}
+        {% endfor %}
+	</div>
+</div>
+Fork from benjaminb10, thanks to him.
+<a href="http://bootsnipp.com/snippets/featured/little-offers-with-colors-and-radius" TARGET="_blank">Link</a>
 
-</body>
+{% endblock %}
+
+
+
+
+
+
+
 
 

@@ -303,7 +303,10 @@ transition: all 0.4s ease-in-out;
       color: #f4511e;
       font-size: 200px;
   }
-
+  .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
   }
   .thumbnail img {
       width: 100%;
